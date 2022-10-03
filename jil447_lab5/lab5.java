@@ -31,7 +31,7 @@ public class lab5 {
     public static void main(String[] args) {
 
         lab5 trial = new lab5();
-        Random random = new Random();
+        Random r = new Random();
 
             System.out.print("Enter how many times you want to run:");
             java.util.Scanner scanner = new Scanner(System.in);
