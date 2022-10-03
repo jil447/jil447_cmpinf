@@ -35,8 +35,8 @@ public class lab5 {
 
             System.out.print("Enter how many times you want to run:");
             java.util.Scanner scanner = new Scanner(System.in);
-            int times = scanner.nextInt();
-            trial.rollDice(times, random);
+            int t = scanner.nextInt();
+            trial.rollDice(t, r);
         }
     }
  
