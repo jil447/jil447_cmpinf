@@ -1,0 +1,32 @@
+My own Menu
+Entree: "Griller Steak", "Carefully selected prime quality steak griller to the point of your preference", "Calories is: 740", "Price is: 15.0"
+Side: "Grilled Potatoes", "Boiled potatoes grilled in oven with a touch of butter", "Calories is: 270", "Price is: 5.0"
+Salad: "Mixed Vegetables", "Includes small tomatoes, lettuce, cucumber, spinach and arugula", "Calories is: 90", "Price is: 7.0"
+Dessert: "Fruit Salad", "Oranges, bananas, apples, grapes, strawberries", "Calories is: 200", "Price is: 5.0"
+
+Total calories is 1300
+Total prices is 32
+Random Menu
+Entree: "Deep fried chicken breasts", "Deep fried chicken breasts using our traditional powder receipt", "Calories is: 560", "Price is: 12.0"
+Side: "Quinoa", "Quinoa", "Calories is: 140", "Price is: 4.7"
+Salad: "Potato Salad", "Potato Salad", "Calories is: 195", "Price is: 4.0"
+Dessert: "Ice Cream", "Choose among vanilla, mango, pineapple, chocolate and orange ice cream", "Calories is: 250", "Price is: 3.2"
+
+Total calories is 1145
+Total prices is 23
+Min Menu
+Entree: "Curry Chicken", "Curry marinated chicken, cooked slowly in wood fire oven", "Calories is: 430", "Price is: 11.5"
+Side: "Quinoa", "Quinoa", "Calories is: 140", "Price is: 4.7"
+Salad: "Mixed Vegetables", "Includes small tomatoes, lettuce, cucumber, spinach and arugula", "Calories is: 90", "Price is: 7.0"
+Dessert: "Chocolate Cake", "Low calorie chocolate cake", "Calories is: 175", "Price is: 7.0"
+
+Total calories is 835
+Total prices is 30
+Max Menu
+Entree: "Sirloin Steak", "A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked", "Calories is: 820", "Price is: 22.5"
+Side: "Grilled Potatoes", "Boiled potatoes grilled in oven with a touch of butter", "Calories is: 270", "Price is: 5.0"
+Salad: "Soy bean sprout with corn", "Soy bean sprout with corn and olives", "Calories is: 210", "Price is: 5.0"
+Dessert: "Ice Cream", "Choose among vanilla, mango, pineapple, chocolate and orange ice cream", "Calories is: 250", "Price is: 3.2"
+
+Total calories is 1550
+Total prices is 35
